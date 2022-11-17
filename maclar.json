@@ -1,0 +1,179 @@
+{
+    "maclar": [
+        {
+            "takimlar": "Fenerbahce - Galatasaray",
+            "mac-tarih": "17.11.2022 22.30",
+            "MS1": 1.7,
+            "MS0": 4.0,
+            "MS2": 2.5
+        },
+        {
+            "takimlar": "Besiktas - Trabzon SK",
+            "mac-tarih": "17.11.2022 20.30",
+            "MS1": 2.7,
+            "MS0": 2.0,
+            "MS2": 2.7
+        },
+        {
+            "takimlar": "St. Lucia -San Marino ",
+            "mac-tarih": "nikhil@geeksforgeeks.org",
+            "MS1": "1.80",
+            "MS0": "2.70",
+            "MS2": "1.80"
+        },
+        {
+            "takimlar": "Jong Az Alkmaa -Ajax (B) ",
+            "mac-tarih": "nikhil@geeksforgeeks.org",
+            "MS1": "1.91",
+            "MS0": "3.41",
+            "MS2": "1.91"
+        },
+        {
+            "takimlar": "Penafiel -Moreirense ",
+            "mac-tarih": "nikhil@geeksforgeeks.org",
+            "MS1": "2.64",
+            "MS0": "2.69",
+            "MS2": "2.64"
+        },
+        {
+            "takimlar": "St. Lucia -San Marino ",
+            "mac-tarih": "01:00",
+            "MS1": "1.80",
+            "MS0": "2.70",
+            "MS2": "1.80"
+        },
+        {
+            "takimlar": "Jong Az Alkmaa -Ajax (B) ",
+            "mac-tarih": "23:00",
+            "MS1": "1.91",
+            "MS0": "3.41",
+            "MS2": "1.91"
+        },
+        {
+            "takimlar": "Penafiel -Moreirense ",
+            "mac-tarih": "23:30",
+            "MS1": "2.64",
+            "MS0": "2.69",
+            "MS2": "2.64"
+        },
+        {
+            "takimlar": "Nikhil",
+            "mac-tarih": "nikhil@geeksforgeeks.org",
+            "MS1": "Full Time",
+            "MS0": "a",
+            "MS2": "xz"
+        },
+        {
+            "takimlar": "St. Lucia -San Marino ",
+            "mac-tarih": 37,
+            "MS1": "1.80",
+            "MS0": "2.70",
+            "MS2": "1.80"
+        },
+        {
+            "takimlar": "Jong Az Alkmaa -Ajax (B) ",
+            "mac-tarih": 37,
+            "MS1": "1.88",
+            "MS0": "3.42",
+            "MS2": "1.88"
+        },
+        {
+            "takimlar": "Penafiel -Moreirense ",
+            "mac-tarih": 37,
+            "MS1": "2.64",
+            "MS0": "2.69",
+            "MS2": "2.64"
+        },
+        "",
+        {
+            "takimlar": "St. Lucia -San Marino ",
+            "mac-tarih": 38,
+            "MS1": "1.80",
+            "MS0": "2.70",
+            "MS2": "1.80"
+        },
+        {
+            "takimlar": "Jong Az Alkmaa -Ajax (B) ",
+            "mac-tarih": 38,
+            "MS1": "1.88",
+            "MS0": "3.42",
+            "MS2": "1.88"
+        },
+        {
+            "takimlar": "Penafiel -Moreirense ",
+            "mac-tarih": 38,
+            "MS1": "2.64",
+            "MS0": "2.69",
+            "MS2": "2.64"
+        },
+        "",
+        "",
+        {
+            "takimlar": "St. Lucia -San Marino ",
+            "mac-tarih": 39,
+            "MS1": "1.80",
+            "MS0": "2.70",
+            "MS2": "1.80"
+        },
+        {
+            "takimlar": "Jong Az Alkmaa -Ajax (B) ",
+            "mac-tarih": 39,
+            "MS1": "1.88",
+            "MS0": "3.42",
+            "MS2": "1.88"
+        },
+        {
+            "takimlar": "Penafiel -Moreirense ",
+            "mac-tarih": 39,
+            "MS1": "2.64",
+            "MS0": "2.69",
+            "MS2": "2.64"
+        },
+        "",
+        "",
+        {
+            "takimlar": "St. Lucia -San Marino ",
+            "mac-tarih": 40,
+            "MS1": "1.80",
+            "MS0": "2.70",
+            "MS2": "1.80"
+        },
+        {
+            "takimlar": "Jong Az Alkmaa -Ajax (B) ",
+            "mac-tarih": 40,
+            "MS1": "1.84",
+            "MS0": "3.45",
+            "MS2": "1.84"
+        },
+        {
+            "takimlar": "Penafiel -Moreirense ",
+            "mac-tarih": 40,
+            "MS1": "2.64",
+            "MS0": "2.69",
+            "MS2": "2.64"
+        },
+        "",
+        "",
+        {
+            "takimlar": "St. Lucia -San Marino ",
+            "mac-tarih": 41,
+            "MS1": "1.80",
+            "MS0": "2.70",
+            "MS2": "1.80"
+        },
+        {
+            "takimlar": "Jong Az Alkmaa -Ajax (B) ",
+            "mac-tarih": 41,
+            "MS1": "1.84",
+            "MS0": "3.45",
+            "MS2": "1.84"
+        },
+        {
+            "takimlar": "Penafiel -Moreirense ",
+            "mac-tarih": 41,
+            "MS1": "2.64",
+            "MS0": "2.69",
+            "MS2": "2.64"
+        }
+    ]
+}
